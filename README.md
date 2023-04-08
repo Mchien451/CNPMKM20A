@@ -39,13 +39,6 @@ The web application was built using the following technologies:
 * Swagger for the back-end API documentation
 
 
-### Contributors
-* Gia Huy Pham - https://github.com/giahuy405
-* Tai Quoc Nguyen - https://github.com/QuocTai2002
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 
